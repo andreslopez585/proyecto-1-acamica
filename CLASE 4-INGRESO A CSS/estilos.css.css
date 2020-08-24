@@ -1,0 +1,30 @@
+.muertedelprincipeamanosdeenemigo{
+  border:5px solid #ff0000;
+}
+.comentarios{
+  border-top:1px solid #ffff00;
+  border-bottom:1px solid #ffff00;
+  padding: 5px 30px;
+}
+
+p{
+
+  color:blue
+}
+
+h1{
+  text-align: center;
+ 
+}
+  h3{
+    text-align: center;
+  }
+#titulo{
+
+  background-color: brown ;
+}
+
+.fondo{
+
+  background: gray ;
+}
